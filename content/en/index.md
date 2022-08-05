@@ -1,11 +1,11 @@
 ---
-title: Introduction
+title: Who are we?
 description: ''
 position: 1
 category: ''
 ---
 
-## Why us?
+## Introduction
 
 We are a team of open-source developers who worked on bigger projects before. We concentrate on building simple, but private and powerfool tools and applications. 
 

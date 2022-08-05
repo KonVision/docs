@@ -13,7 +13,7 @@ Download the file that has been sent to you via DM and double click it. ShareX s
 
 Make sure you have turned on `Copy file path to clipboard` and `Upload image to host` in the `After capture tasks`.
 
-::alert{type="success"} ✨ You should be able to upload images by now. ::
+> ✨ You should be able to upload images by now.
 
 ## ShareNix
 
@@ -21,6 +21,6 @@ Make sure you have turned on `Copy file path to clipboard` and `Upload image to 
 
 Download the file that has been sent to you via DM and double click it. Simply copy the file into `~/sharenix/plugins`.
 
-::alert{type="info"} 👉 See the documentation of ShareX [here](https://github.com/Francesco149/sharenix#using-a-plugin). ::
+> 👉 See the documentation of ShareX [here](https://github.com/Francesco149/sharenix#using-a-plugin).
 
-::alert{type="success"} ✨ You should be able to upload images by now. ::
+> ✨ You should be able to upload images by now.

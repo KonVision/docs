@@ -46,6 +46,6 @@ Your configuration settings are being saved.
 ### Get Configuration Files
 With the `getConfigs` Command, you can get your configuration files for [ShareX](https://getsharex.com/) or [ShareNix](https://github.com/Francesco149/sharenix).
 
-Simply click on the button, you want config files for. Your files should be sended to you via DM.
+Simply click on the button, you want config files for. Your files should be sent to you via DM.
 
 <img alt="GetConfigs Command Preview" src="https://i.imgur.com/ashXesY.png">

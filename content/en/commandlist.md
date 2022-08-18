@@ -23,10 +23,11 @@ The command `help` gives you a similar list of commands.
 
 | **Command** | **Description** |
 | :---------: | :-------------: |
+| `configure` | Entry point for configuration. |
 | `setTitle <Title>` | Sets the title of your Embed. A title is required to use embeds. |
 | `setDescription <Description>` | Sets the description of your Embed. |
 | `setAuthor <Author Text>` | Sets your author text. |
-| `disableAuthor` | Disables the author field. |
+| `authorOff` | Disables the author field. |
 | `embedsOn` | Turns embeds on. |
 | `embedsOff` | Turns embeds off. |
 | `preview` | Gives you a preview of your embed. |

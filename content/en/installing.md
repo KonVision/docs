@@ -1,7 +1,7 @@
 ---
 title: (Server-side) Setup, Installation and Troubleshooting
 description: 'Complete guide on how to run the program on your own server.'
-position: 2
+position: 5
 category: Developer Guide
 ---
 

@@ -21,6 +21,6 @@ Make sure you have turned on `Copy file path to clipboard` and `Upload image to 
 
 Download the file that has been sent to you via DM and double click it. Simply copy the file into `~/sharenix/plugins`.
 
-> 👉 See the documentation of ShareX [here](https://github.com/Francesco149/sharenix#using-a-plugin).
+> 👉 See the documentation of ShareNix [here](https://github.com/Francesco149/sharenix#using-a-plugin).
 
 > ✨ You should be able to upload images by now.

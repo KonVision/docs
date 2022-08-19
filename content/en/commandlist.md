@@ -24,6 +24,7 @@ The command `help` gives you a similar list of commands.
 | **Command** | **Description** |
 | :---------: | :-------------: |
 | `configure` | Entry point for configuration. |
+| `setDomain` | Sets a (spoofed) domain. |
 | `setTitle <Title>` | Sets the title of your Embed. A title is required to use embeds. |
 | `setDescription <Description>` | Sets the description of your Embed. |
 | `setAuthor <Author Text>` | Sets your author text. |

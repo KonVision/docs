@@ -89,6 +89,11 @@ server {
     fastcgi_pass unix:/run/php/php8.1-fpm.sock;
 }
 
+location ~ /(db|handler|cfg|scripts|node_modules) {
+   deny all;
+   return 404;
+}
+
 location ~ /\.ht {
     deny all;
 }
@@ -141,8 +146,11 @@ If you are using a third party DNS, make sure you create 2 records, the main A r
 This setup is needed to make nginx serve a different root depending on your call.  
 
 If everything is set up, your DNS should look something like this:  
-![DNS Management Example](https://imgur.com/rogmSEZ)
+![DNS Management Example](https://i.imgur.com/rogmSEZ.png)
 
+### Network configuration
+
+Make sure to forward port `443` if you are running SSL on your domain or port `80` for ipv6 AND v4 to the local IP of your server / cluster to make the server accessible from the outside world. 
 
 ### Launching the router and discord bot.
 

@@ -33,7 +33,7 @@ If you want to use embeds, you can define what text should be displayed in the e
 #### Embeds Off
 If you have embeds turned off you can skip the configuration.
 
-#### Embeds On / OFf
+#### Embeds On / Off
 You can change your embed setting any time. 
 
 | **Command** | **Description** |
